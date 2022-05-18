@@ -23,9 +23,9 @@
         <Text Name="DismissButton">Dismiss</Text> <!-- Text on the DismissButton if enabled -->
         <Text Name="TitleText">Your computer needs to restart!</Text>
         <Text Name="DeadlineText">Your deadline is:</Text>
-        <Text Name="GreetMorningText">Good morning</Text>
-        <Text Name="GreetAfternoonText">Good afternoon</Text>
-        <Text Name="GreetEveningText">Good evening</Text>
+        <Text Name="GreetMorningText">Good Morning,</Text>
+        <Text Name="GreetAfternoonText">Good Afternoon,</Text>
+        <Text Name="GreetEveningText">Good Evening,</Text>
         <Text Name="MinutesText">Minutes</Text>
         <Text Name="HourText">Hour</Text>
         <Text Name="HoursText">Hours</Text>

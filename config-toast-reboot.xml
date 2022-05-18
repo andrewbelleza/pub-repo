@@ -22,8 +22,6 @@
         <Text Name="ActionButton1">Restart now</Text>  <!-- Text on the ActionButton if enabled -->
         <Text Name="DismissButton">Dismiss</Text> <!-- Text on the DismissButton if enabled -->
         <Text Name="TitleText">Your computer needs to restart!</Text>
-	<Text Name="BodyText1"></Text>
-	<Text Name="BodyText2"></Text>	
         <Text Name="DeadlineText">Your deadline is:</Text>
         <Text Name="GreetMorningText">Good morning</Text>
         <Text Name="GreetAfternoonText">Good afternoon</Text>

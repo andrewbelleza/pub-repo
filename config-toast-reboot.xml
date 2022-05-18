@@ -22,6 +22,8 @@
         <Text Name="ActionButton1">Restart now</Text>  <!-- Text on the ActionButton if enabled -->
         <Text Name="DismissButton">Dismiss</Text> <!-- Text on the DismissButton if enabled -->
         <Text Name="TitleText">Your computer needs to restart!</Text>
+	<Text Name="BodyText1">For security and stability reasons, we kindly ask you to restart your computer as soon as possible.</Text>
+	<Text Name="BodyText2">Restarting your computer on a regular basis ensures a secure and stable computer. Thank you in advance.</Text>	
         <Text Name="DeadlineText">Your deadline is:</Text>
         <Text Name="GreetMorningText">Good morning</Text>
         <Text Name="GreetAfternoonText">Good afternoon</Text>

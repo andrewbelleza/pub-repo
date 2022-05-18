@@ -17,8 +17,8 @@
 	<Option Name="Action1" Value="ToastReboot:" />	<!-- Action taken when using the Action button. Can be any protocol in Windows -->
 	<Text Option="GreetGivenName" Enabled="True" />	<!-- Displays the toast with a personal greeting using the users given name retrieved from AD. Will try retrieval from WMI of no local AD -->
 	<en-US> <!-- Default fallback language -->
-        <Text Name="PendingRebootUptimeText">Your computer has been up for 3 days. Kindly restart your computer on a regular basis to ensure the stability and security of the device..</Text> <!-- Text used if the PendingRebootUptimeText Option is enabled -->
-        <!-- <Text Name="PendingRebootCheckText">Reason: Pending reboots was found in registry or WMI.</Text> <!-- Text used if the PendingRebootUptimeText Option is enabled -->
+        <Text Name="PendingRebootUptimeText">Your computer has been up for 3 days. Kindly restart your computer on a regular basis to ensure the stability and security of the device.</Text> <!-- Text used if the PendingRebootUptimeText Option is enabled -->
+        <Text Name="PendingRebootCheckText">Reason: Pending reboots was found in registry or WMI.</Text> <!-- Text used if the PendingRebootUptimeText Option is enabled -->
         <Text Name="ActionButton1">Restart now</Text>  <!-- Text on the ActionButton if enabled -->
         <Text Name="DismissButton">Dismiss</Text> <!-- Text on the DismissButton if enabled -->
         <Text Name="TitleText">Your computer needs to restart!</Text>
